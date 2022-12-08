@@ -1,4 +1,8 @@
-﻿namespace AdventOfCode.Day7;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace AdventOfCode.Day7;
 
 class DaySeven
 {

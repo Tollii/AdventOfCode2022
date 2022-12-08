@@ -1,4 +1,6 @@
-﻿namespace AdventOfCode.Day1;
+﻿using System;
+
+namespace AdventOfCode.Day1;
 
 public class DayOne
 {

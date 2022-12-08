@@ -1,4 +1,7 @@
-﻿namespace AdventOfCode.Day7;
+﻿using System.Collections.Generic;
+using System.Linq;
+
+namespace AdventOfCode.Day7;
 
 public record Directory
 {

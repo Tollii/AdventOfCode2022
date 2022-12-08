@@ -1,4 +1,7 @@
-﻿namespace AdventOfCode.Day8;
+﻿using System.Collections.Generic;
+using System.Linq;
+
+namespace AdventOfCode.Day8;
 
 public record Forest
 {

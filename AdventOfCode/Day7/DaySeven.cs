@@ -1,12 +1,12 @@
-﻿using Directory = AdventOfCode.Day7.Directory;
+﻿namespace AdventOfCode.Day7;
 
 class DaySeven
 {
     public static void Run()
     {
         const string PATH = @"C:\test-dev\Playground\AdventOfCode\AdventOfCode\Day7\input.txt";
-        
-        IList<string> lines = File.ReadAllLines(PATH).Skip(1).ToList();
+
+        IList<string> lines = System.IO.File.ReadAllLines(PATH).Skip(1).ToList();
     
         var root = new Directory { Name = "/" };
         

@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-namespace AdventOfCode.Day8;
+﻿namespace AdventOfCode.Day8;
 
 public record Tree
 {
